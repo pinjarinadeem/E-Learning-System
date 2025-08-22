@@ -16,7 +16,7 @@ An advanced **E-Learning Platform** designed to help students learn interactivel
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (or React if used)  
-- **Backend:** PHP (CodeIgniter 3) / Django / Node.js [choose your backend]  
+- **Backend:** PHP (CodeIgniter 3)  
 - **Database:** MySQL  
 - **Machine Learning:** Python (for course recommendation system)  
 - **Tools & Libraries:** Bootstrap, Chart.js, Pandas, Scikit-learn  
@@ -28,7 +28,7 @@ An advanced **E-Learning Platform** designed to help students learn interactivel
 |-----------|-------------|-------------|
 | ![Dashboard Screenshot](docs/sceenshots/dashboard.png) | ![Course Screenshot](docs/sceenshots/course.png) | ![Exam Screenshot](docs/sceenshots/exam.png) |
 
-> *(Add your screenshots inside `docs/screenshots/` and update paths above)*  
+
 
 ---
 
