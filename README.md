@@ -26,7 +26,7 @@ An advanced **E-Learning Platform** designed to help students learn interactivel
 ## 📸 Screenshots
 | Dashboard | Course View | Exam Module |
 |-----------|-------------|-------------|
-| ![Dashboard Screenshot](docs/sceenshots/dashboard.png) | ![Course Screenshot](docs/screenshots/course.png) | ![Exam Screenshot](docs/screenshots/exam.png) |
+| ![Dashboard Screenshot](docs/sceenshots/dashboard.png) | ![Course Screenshot](docs/sceenshots/course.png) | ![Exam Screenshot](docs/sceenshots/exam.png) |
 
 > *(Add your screenshots inside `docs/screenshots/` and update paths above)*  
 
